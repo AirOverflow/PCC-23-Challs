@@ -8,7 +8,7 @@ type: standard
 flags:
     - {
         type: "static",
-        content: "pcc{l1v1ng_1n_th3_Future}",
+        content: "pcc{}",
         data: "case_insensitive",
     }
 
